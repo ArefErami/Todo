@@ -2,6 +2,7 @@
   "name": "todo2",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://ArefErami.github.io/Todo",
   "dependencies": {
     "mobx": "5.1.0",
     "mobx-react": "5.2.6",
